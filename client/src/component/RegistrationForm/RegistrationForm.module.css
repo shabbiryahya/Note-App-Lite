@@ -1,0 +1,23 @@
+.Github{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+    margin: auto;
+    font-size: 16px;
+    margin-top: -30px;
+}
+.gitNavLink{
+    text-decoration: none;
+    color: wheat;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+   
+}
+fieldset{
+
+    padding: 50px;
+    margin-bottom: 20px;
+}

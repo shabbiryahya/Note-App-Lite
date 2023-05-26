@@ -41,6 +41,38 @@ The Apache License, Version 2.0 is a permissive open source license that allows 
 
 Please note that this information is provided as a general description, and it's important to review the Apache License, Version 2.0 directly from the official source to ensure accurate and up-to-date information regarding your rights and obligations.
 
+## Screenshots:
+- [Registration Page](https://note-app-lite.netlify.app/Register)
+
+![Registration Page](https://i.imgur.com/IVeVBcq.png)
+
+- [Login Page](https://note-app-lite.netlify.app/login)
+
+![Login Page](https://i.imgur.com/1mnwLSY.png)
+
+- [Home Page](https://note-app-lite.netlify.app/) `Login Required`
+
+![Home Page](https://i.imgur.com/R53kiBk.png)
+
+- [Note Details](https://note-app-lite.netlify.app/notes/:id) `Login Required`
+
+![Note Details](https://i.imgur.com/eKEo4YE.png)
+
+- [Update Note](https://note-app-lite.netlify.app/notes/edit/:id) `Login Required`
+
+![Update Note](https://i.imgur.com/E1lA9cN.png)
+
+
+
+
+
+
+
+**Deployed Link :** https://note-app-lite.netlify.app
+
+**GitHub Link :** https://github.com/shabbiryahya/Note-App-Lite
+
+
 Enjoy using NoteApp for seamless note-taking and organization!
 
 

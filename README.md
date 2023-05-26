@@ -2,23 +2,23 @@
 NoteApp is a feature-rich, multi-user note-taking application built using a full stack web development approach. With NoteApp, users can conveniently create, view, update, and delete their personal notes, ensuring a seamless and organized note-taking experience. The application provides user authentication and authorization mechanisms, allowing users to sign up, log in using their GitHub or Google OAuth accounts, and securely access their own set of notes.
 
 ## Key Features:
-- ### **User Authentication and Authorization :** NoteApp integrates GitHub and Google OAuth to provide a hassle-free login experience for users. Users can securely sign up, log in, and access their personal notes.
+- **User Authentication and Authorization :** NoteApp integrates GitHub and Google OAuth to provide a hassle-free login experience for users. Users can securely sign up, log in, and access their personal notes.
 
-- ### **Personal Note Management :** Each user has their own set of personal notes. Users can easily create new notes, view their existing notes, update the content of their notes, and delete notes they no longer need.
+- **Personal Note Management :** Each user has their own set of personal notes. Users can easily create new notes, view their existing notes, update the content of their notes, and delete notes they no longer need.
 
-- ### **Intuitive User Interface :** NoteApp offers a user-friendly interface that enables users to interact with their notes effortlessly. The interface provides clear options for creating, viewing, updating, and deleting notes, ensuring a seamless note-taking experience.
+- **Intuitive User Interface :** NoteApp offers a user-friendly interface that enables users to interact with their notes effortlessly. The interface provides clear options for creating, viewing, updating, and deleting notes, ensuring a seamless note-taking experience.
 
-- ### **Multi-User Support :** NoteApp is designed to cater to multiple users simultaneously. Each user has their own account, ensuring their notes remain private and accessible only to them.
+- **Multi-User Support :** NoteApp is designed to cater to multiple users simultaneously. Each user has their own account, ensuring their notes remain private and accessible only to them.
 
 ## Tech Stack:
 
-- ### **Front-end :** The front-end of NoteApp is built using modern web technologies such as HTML, CSS, and JavaScript. Additional library such as React is used to enhance the user interface and interactivity.
+- **Front-end :** The front-end of NoteApp is built using modern web technologies such as HTML, CSS, and JavaScript. Additional library such as React is used to enhance the user interface and interactivity.
 
-- ### **Back-end :** The back-end of NoteApp utilizes server-side technologies, such as Node.js, Express.js, and a database management system (e.g., MongoDB) to handle user authentication, note storage, and data retrieval.
+- **Back-end :** The back-end of NoteApp utilizes server-side technologies, such as Node.js, Express.js, and a database management system (e.g., MongoDB) to handle user authentication, note storage, and data retrieval.
 
-- ### **Authentication and Authorization :** GitHub and Google OAuth are integrated into the application to provide a secure and convenient login process.
+- **Authentication and Authorization :** GitHub and Google OAuth are integrated into the application to provide a secure and convenient login process.
 
-- ### **Deployment :** NoteApp can be deployed on a cloud platform like Heroku,aws,cyclic enabling easy access for users and ensuring scalability and reliability.
+- **Deployment :** NoteApp can be deployed on a cloud platform like Heroku,aws,cyclic enabling easy access for users and ensuring scalability and reliability.
 
 ## Getting Started:
 To run NoteApp locally or deploy it on a server, follow these steps:
